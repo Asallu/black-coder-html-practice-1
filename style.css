@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap');
+
+@media (max-width: 480px) {
+    body {
+        background-color: #3D3B8E;
+        color: #fff;
+    }
+h2 {font-size: 20px;}
+p {font-size:14px;}
+}
+
+@media (min-width: 481px) {
+    body {
+        background-color: #B0E298;
+        color: #000;
+    }
+    .h1 .h2 {
+        font-size:50px;
+    }
+    p {font-size: 26px;}
+}
