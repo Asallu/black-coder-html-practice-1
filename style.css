@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap');
 
+
 @media (max-width: 480px) {
     body {
         background-color: #3D3B8E;
@@ -18,4 +19,11 @@ p {font-size:14px;}
         font-size:50px;
     }
     p {font-size: 26px;}
+}
+.Facts {
+    color: aqua;
+    display: flex;
+    justify-content:space-around;
+    align-items:flex-end;
+    font-size: 10px;
 }
